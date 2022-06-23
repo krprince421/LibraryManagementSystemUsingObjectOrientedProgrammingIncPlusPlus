@@ -180,8 +180,8 @@ CSEbookArray[0].setQuantity(50) ;
 CSEbookArray[0].setYear(2) ;
 CSEbookArray[0].setSemester(2) ;
 
-NonCSEbookArray[0].setBookName("Electronics ") ;
-NonCSEbookArray[0].setAuthor(" abcd") ;
+NonCSEbookArray[0].setBookName("Electrical Machines") ;
+NonCSEbookArray[0].setAuthor("S K Sahdev") ;
 NonCSEbookArray[0].setId(2000) ;
 NonCSEbookArray[0].setEdition(1) ;
 NonCSEbookArray[0].setQuantity(55) ;
