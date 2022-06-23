@@ -180,8 +180,8 @@ CSEbookArray[0].setQuantity(50) ;
 CSEbookArray[0].setYear(2) ;
 CSEbookArray[0].setSemester(2) ;
 
-NonCSEbookArray[0].setBookName("Electronics and Communication Engineering Handbook") ;
-NonCSEbookArray[0].setAuthor(" Susurla V.S. Suresh") ;
+NonCSEbookArray[0].setBookName("Electronics ") ;
+NonCSEbookArray[0].setAuthor(" abcd") ;
 NonCSEbookArray[0].setId(2000) ;
 NonCSEbookArray[0].setEdition(1) ;
 NonCSEbookArray[0].setQuantity(55) ;
